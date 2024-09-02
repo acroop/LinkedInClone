@@ -4,12 +4,10 @@ function NavbarComp() {
     return (
         <div className="navbar bg-base-100 ">
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl">LInkedIn</a>
+                <a className="btn btn-ghost text-xl">LinkedIn</a>
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1">
-                    <li><a>Home</a></li>
-                    
+                <ul className="menu menu-horizontal px-1">                    
                     <li><a>Jobs</a></li>
                     <li><a>Internship</a></li>
                     <li>
@@ -18,6 +16,7 @@ function NavbarComp() {
                             <ul className="p-2">
                                 <li><a>Resume Builder</a></li>
                                 <li><a>Counselling</a></li>
+                                <li><a>PYQs</a></li>
                             </ul>
                         </details>
                     </li>
