@@ -1,6 +1,7 @@
 import React from 'react'
 import MainFeed from './MainFeed'
 import RightFeed from './RightFeed'
+import HoverBtn from './HoverBtn'
 
 const Feed = () => {
   return (
@@ -14,8 +15,10 @@ const Feed = () => {
         <div className='hidden bg-white m-2 lg:block  h-screen w-[35%] rounded-2xl'>
           <RightFeed />
         </div>
+        <HoverBtn/>
       </div>
       <div className='lg:hidden bg-white m-2 fixed bottom-0 left-0 right-0  p-2 rounded-full'>
+        
       </div>
     </>
   )

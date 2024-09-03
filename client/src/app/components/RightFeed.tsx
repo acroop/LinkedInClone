@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import React from 'react'
 
 const headLines = [
@@ -30,7 +31,7 @@ function RightFeed() {
         ))         
       }
       </div>
-    
+     
     </div>
   )
 }
