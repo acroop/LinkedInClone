@@ -1,9 +1,10 @@
 import React from 'react'
 import MainFeed from './MainFeed'
+import RightFeed from './RightFeed'
 
 const Feed = () => {
-  return(
-   <>
+  return (
+    <>
       <div className='flex bg-[#ecebeb] gap-1 overflow-x-hidden '>
         <div className='hidden bg-white m-2  lg:block  h-screen w-[15%] rounded-2xl'>
         </div>
@@ -11,6 +12,7 @@ const Feed = () => {
           <MainFeed />
         </div>
         <div className='hidden bg-white m-2 lg:block  h-screen w-[35%] rounded-2xl'>
+          <RightFeed />
         </div>
       </div>
       <div className='lg:hidden bg-white m-2 fixed bottom-0 left-0 right-0  p-2 rounded-full'>
