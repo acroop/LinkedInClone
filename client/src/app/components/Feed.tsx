@@ -11,7 +11,7 @@ const Feed = () => {
         <div className='hidden bg-white m-2  lg:block  h-fit p-3 w-[15%] rounded-2xl'>
           <LeftFeed />
         </div>
-        <div className='h-screen bg-white m-2  w-full lg:w-1/2 rounded-2xl'>
+        <div className='h-fit bg-white m-2  w-full lg:w-1/2 rounded-2xl'>
           <MainFeed />
         </div>
         <div className='hidden bg-white m-2 lg:block  h-screen w-[35%] rounded-2xl'>
