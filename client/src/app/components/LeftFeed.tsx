@@ -13,8 +13,8 @@ const LeftFeed = () => {
           </button>
         </div>
       </div>
-      <div className="flex flex-col gap-2 justify-center items-center p-7 pb-1">
-        <h1 className="text-[20px] font-bold">You May Know</h1>
+      <div className="flex flex-col gap-2 justify-center items-center p-2">
+        <h1 className="text-[20px] font-bold p-5 pb-1">You May Know</h1>
         <div className="flex justify-center items-center gap-2">
           <img src="./1.png" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
