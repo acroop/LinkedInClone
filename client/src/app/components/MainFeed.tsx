@@ -43,7 +43,7 @@ const MainFeed = () => {
         <p>Are you ready to turn your game development dreams into reality? At Snow-Loft, we're on the lookout for talented and passionate game developers to join our creative team and help us build the next generation of gaming experiences!
 <br />
 About Us: Snow-Loft is a cutting-edge game development studio dedicated to crafting unique and immersive gaming worlds. Our team thrives on innovation, creativity, and collaboration. We’re currently working on an exciting new project that blends epic storytelling with groundbreaking gameplay, and we want you to be a part of it!
-<p className='inline text-[#818080]'> ...more</p>
+<span className='inline text-[#818080]'> ...more</span>
 </p>
 <br />
 <img src="./hiring.png" className='w-fit' alt="" />

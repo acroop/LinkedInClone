@@ -4,7 +4,7 @@ function NavbarComp() {
     return (
         <div className="navbar bg-base-100 ">
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl">LinkedIn</a>
+                <a className="btn btn-ghost text-xl">SHAPE</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">                    
