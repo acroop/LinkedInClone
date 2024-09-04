@@ -24,7 +24,7 @@ const LeftFeed = () => {
           <img src="./add.png" className="w-[25px]" alt="Add" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <img src="./1.png" className="w-[50px] rounded-full" alt="" />
+          <img src="./pf3.jpeg" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
             <span className="text-[13px] text-center">Aanya Sharma</span>
             <p className="text-[11px] text-[#818080] text-center">Founder of QuikTec</p>
@@ -32,7 +32,7 @@ const LeftFeed = () => {
           <img src="./add.png" className="w-[25px]" alt="Add" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <img src="./1.png" className="w-[50px] rounded-full" alt="" />
+          <img src="./2.jpg" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
             <span className="text-[13px] text-center">Rohit Nair</span>
             <p className="text-[11px] text-[#818080] text-center">Works at InMobi</p>
@@ -40,7 +40,7 @@ const LeftFeed = () => {
           <img src="./add.png" className="w-[25px]" alt="Add" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <img src="./1.png" className="w-[50px] rounded-full" alt="" />
+          <img src="./pf2.jpeg" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
             <span className="text-[13px] text-center">Priya Iyer</span>
             <p className="text-[11px] text-[#818080] text-center">Works at CRED</p>
@@ -48,7 +48,7 @@ const LeftFeed = () => {
           <img src="./add.png" className="w-[25px]" alt="Add" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <img src="./1.png" className="w-[50px] rounded-full" alt="" />
+          <img src="./pf4.png" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
             <span className="text-[13px] text-center">Aditya Verma</span>
             <p className="text-[11px] text-[#818080] text-center">Works at Swiggy</p>
@@ -56,7 +56,7 @@ const LeftFeed = () => {
           <img src="./add.png" className="w-[25px]" alt="Add" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <img src="./1.png" className="w-[50px] rounded-full" alt="" />
+          <img src="./pf1.jpeg" className="w-[50px] rounded-full" alt="" />
           <div className="flex flex-col w-[120px]">
             <span className="text-[13px] text-center">Neha Singh</span>
             <p className="text-[11px] text-[#818080] text-center">Works at Dunzo</p>
