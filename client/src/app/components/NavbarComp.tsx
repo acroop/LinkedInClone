@@ -1,10 +1,18 @@
+import Image from 'next/image'
 import React from 'react'
 
 function NavbarComp() {
     return (
         <div className="navbar bg-base-100 ">
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl">SHAPE</a>
+                <a className="btn btn-ghost text-xl">
+                    <Image 
+                    src="/LOGO.png"
+                    width={75}
+                    height={2}
+                    alt='logo'
+                    />
+                </a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
