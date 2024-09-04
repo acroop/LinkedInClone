@@ -14,7 +14,7 @@ const Feed = () => {
         <div className='h-fit bg-white m-2  w-full lg:w-1/2 rounded-2xl'>
           <MainFeed />
         </div>
-        <div className='hidden bg-white m-2 lg:block  h-screen w-[35%] rounded-2xl'>
+        <div className='hidden bg-white m-2 lg:block  h-full w-[35%] rounded-2xl'>
           <RightFeed />
         </div>
         <HoverBtn/>
