@@ -28,7 +28,26 @@ const MainFeed = () => {
               Write</div>
           </div>
         </div>
-
+      </div>
+      <div className='m-4'>
+      <div className='flex items-center gap-2'>
+        <img src="./icon.jpg" className='w-[50px] h-auto rounded-full' alt="PP" />
+        <div className='flex flex-col'>
+          <h1 className='font-bold'>Aman Sinha</h1>
+          <p className='text-[12px] text-[#818080]'>Co-Founder | Snow-Loft</p>
+          <p className='text-[12px] text-[#818080]'>2h ago</p>
+        </div>
+        </div>
+      <div>
+        <h1 className='mt-2 font-semibold'>🚀 Join Snow-Loft: We're Hiring Game Developers! 🎮</h1>
+        <p>Are you ready to turn your game development dreams into reality? At Snow-Loft, we're on the lookout for talented and passionate game developers to join our creative team and help us build the next generation of gaming experiences!
+<br />
+About Us: Snow-Loft is a cutting-edge game development studio dedicated to crafting unique and immersive gaming worlds. Our team thrives on innovation, creativity, and collaboration. We’re currently working on an exciting new project that blends epic storytelling with groundbreaking gameplay, and we want you to be a part of it!
+<p className='inline text-[#818080]'> ...more</p>
+</p>
+<br />
+<img src="./hiring.png" className='w-fit' alt="" />
+        </div>
       </div>
     </div>
   )
